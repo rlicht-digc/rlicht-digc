@@ -6,7 +6,7 @@ Building production-grade systems across astrophysics, quantitative finance, aer
 
 ---
 
-### By the Numbers (January – March 2026)
+### By the Numbers (January 2026 – Present, actively ongoing)
 
 | | |
 |---|---|
@@ -15,7 +15,7 @@ Building production-grade systems across astrophysics, quantitative finance, aer
 | **Processed Data** | 1.9 million lines across 3,917 data files |
 | **Data** | 170 GB integrated across 80+ observational and simulation datasets |
 | **Galaxies** | 4,142 cross-matched across 16 surveys |
-| **Papers** | 3 authored, 1 submitted to arXiv |
+| **Papers** | 3 authored (1 in revision, 2 in preparation) |
 | **Patent** | Provisional filed — POPPINS spacecraft architecture (20 claims) |
 | **Domains** | Astrophysics, gravitational physics, quantitative finance, aerospace, developer tooling |
 
@@ -39,7 +39,7 @@ Building production-grade systems across astrophysics, quantitative finance, aer
 
 **Cross-Scale Physics Catalog** — 103K lines, 98 computations. Reference map of observed physics from 10^-35 to 10^26 m across 10 scale levels. Systematic survey of theoretical frameworks and known quantum statistics.
 
-**V3 Autonomous Investment System** — 567K lines, 49 microservices, 5-layer pipeline. 15 data scouts, 11 feature engines, Kalman/HMM/Bayesian synthesis, 6 strategy modules. Kafka (42+ topics), Kubernetes/GKE, PostgreSQL, Prometheus/Grafana. 535+ unit tests.
+**V3 — LLM-Orchestrated Self-Generating Agent Platform** — 567K lines, 49 microservices. **Oracle**: Claude API generates production-ready agents from markdown specs. **Genesis**: automated pipeline — spec → Claude → code → pytest → git branch → GitHub PR → K8s deployment via Argo Workflows. **Dexter**: agentic research loop with multi-LLM support (Claude/GPT/Gemini/Grok), tool-calling, scratchpad context management, Anthropic prompt caching. Kafka (42+ topics), Kubernetes/GKE, PostgreSQL, Prometheus/Grafana. Agents build agents.
 
 ---
 
