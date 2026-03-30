@@ -10,8 +10,9 @@ Building production-grade systems across astrophysics, quantitative finance, aer
 
 | | |
 |---|---|
-| **Python** | 1,040,000+ lines across 7,600+ files |
-| **Computations** | 442 scientific computations with full audit trails |
+| **Code** | 1,099,000+ lines across 8,078 files (1,055K Python + 17K TypeScript + 26K LaTeX) |
+| **Computations** | 974 individual timestamped computation runs across 421 directories |
+| **Processed Data** | 1.9 million lines across 3,917 data files |
 | **Data** | 170 GB integrated across 80+ observational and simulation datasets |
 | **Galaxies** | 4,142 cross-matched across 16 surveys |
 | **Papers** | 3 authored, 1 submitted to arXiv |
@@ -52,7 +53,7 @@ Full math audit verified 70+ computation directories with zero contamination.
 
 ### Technical
 
-Python | TypeScript | SQL | LaTeX | NumPy | SciPy | Astropy | Pandas | Docker | Kubernetes/GKE | Kafka/Redpanda | PostgreSQL | React | Electron | Node.js | Express | WebSocket | Prometheus | Grafana | GitHub Actions | Argo Workflows | Claude Code | Claude API | Codex
+Python | C++ (DiFRG/deal.II) | TypeScript | SQL | LaTeX | Bash | NumPy | SciPy | Astropy | Pandas | Docker | Kubernetes/GKE | AWS EC2 (96-core HPC) | Kafka/Redpanda | PostgreSQL | React | Electron | Node.js | Express | WebSocket | Prometheus | Grafana | GitHub Actions | Argo Workflows | Claude Code | Claude API | Codex
 
 ---
 
